@@ -41,7 +41,7 @@ This project analyses synthetic mobile-money transaction data to uncover transac
 
 ![Financial Transaction Intelligence Dashboard](tableau/dashboard_preview.png)
 
-**Interactive dashboard:** [View on Tableau Public](ADD_YOUR_TABLEAU_PUBLIC_URL_HERE)
+**Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/views/financial_transaction_intelligence/FinancialTransactionIntelligenceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Findings
 
